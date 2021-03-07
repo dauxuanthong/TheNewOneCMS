@@ -1,0 +1,55 @@
+﻿@model PostSys.ViewModels.PostCourseViewModel
+@{
+	ViewBag.Title = "PostTopic";
+}
+
+<h2>PostTopic</h2>
+
+@using (Html.BeginForm("PostTopic", "Courses", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+	<div class="form-group">
+		@Html.LabelFor(p => p.Post.Name)
+		@Html.TextBoxFor(p => p.Post.Name, new { @class = "form-control" })
+		@Html.ValidationMessageFor(p => p.Post.Name, "", new { @class = "text-danger" })
+	</div>
+
+	@Html.HiddenFor(p => p.Post.CourseId)
+
+	//////////////////////////////
+	<div class="form-group">
+		@Html.LabelFor(model => model.Post.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+		<div class="col-md-10">
+			@Html.EditorFor(model => model.Post.Description, new { htmlAttributes = new { @class = "form-control" } })
+			@Html.ValidationMessageFor(model => model.Post.Description, "", new { @class = "text-danger" })
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.Post.File, htmlAttributes: new { @class = "control-label col-md-2" })
+		<div class="col-md-10">
+			<input type="file" name="File" id="File" style="width: 100%;" />
+		</div>
+	</div>
+	//////////////////////////////
+
+	if (Model.Status == 1)
+	{
+		<div type="submit">
+			<button class="btn btn-primary" onclick="SendEmail()">Submit</button>
+		</div>
+
+		<script>
+			var SendEmail = function () {
+				$.ajax({
+					type: "Post",
+					url: "/Posts/SendEmailToUser",
+
+				})
+			}
+		</script>
+	}
+	else
+	{
+		<a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Co cet qua deadline roi cu</a>
+	}
+}

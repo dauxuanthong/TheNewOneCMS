@@ -1,0 +1,47 @@
+﻿@model PostSys.ViewModels.StudentToCourseViewModel
+@{
+	ViewBag.Title = "AssignStudentToCourse";
+}
+
+<h2>AssignStudentToCourse</h2>
+
+@using (Html.BeginForm("AssignStudentToCourse", "Courses", FormMethod.Post))
+{
+	<div class="form-group">
+		@Html.LabelFor(p => p.Course.Name)
+		@Html.TextBoxFor(p => p.Course.Name, new { @class = "form-control" })
+		@Html.ValidationMessageFor(p => p.Course.Name, "", new { @class = "text-danger" })
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(p => p.Course.StartDate)
+		@Html.TextBoxFor(p => p.Course.StartDate, new { @class = "form-control" })
+		@Html.ValidationMessageFor(p => p.Course.StartDate, "", new { @class = "text-danger" })
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(p => p.Course.EndDate)
+		@Html.TextBoxFor(p => p.Course.EndDate, new { @class = "form-control" })
+		@Html.ValidationMessageFor(p => p.Course.EndDate, "", new { @class = "text-danger" })
+	</div>
+
+	@*<div class="form-group">
+			@Html.LabelFor(m => m.Course.Class.Name)
+			@Html.DropDownListFor(m => m.Course.ClassId,
+				new SelectList(Model.Classes, "Id", "Name"), "Select Class",
+				new { @class = "form-control" }
+			)
+		</div>*@
+
+	<div class="form-group">
+		@Html.LabelFor(m => m.Course.Student.UserName)
+		@Html.DropDownListFor(m => m.Course.StudentId,
+			new SelectList(Model.Students, "Id", "UserName"), "Select Student",
+			new { @class = "form-control" }
+		)
+	</div>
+
+	<button type="submit" class="btn btn-primary">Assign more</button>
+
+	<a type="submit" class="btn btn-warning" href="~/Courses/ManageCourse">back to manage course</a>
+}

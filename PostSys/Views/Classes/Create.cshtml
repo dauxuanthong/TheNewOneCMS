@@ -1,0 +1,34 @@
+﻿@model PostSys.ViewModels.CoordinatorFacultyViewModel
+@{
+	ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm("Create", "Classes", FormMethod.Post))
+{
+	<div class="form-group">
+		@Html.LabelFor(p => p.Class.Name)
+		@Html.TextBoxFor(p => p.Class.Name, new { @class = "form-control" })
+		@Html.ValidationMessageFor(p => p.Class.Name, "", new { @class = "text-danger" })
+	</div>
+
+
+	<div class="form-group">
+		@Html.LabelFor(m => m.Class.CoordinatorId)
+		@Html.DropDownListFor(m => m.Class.CoordinatorId,
+			new SelectList(Model.Coordinators, "Id", "Email"), "Select Coordinator",
+			new { @class = "form-control" }
+		)
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(m => m.Class.FacultyId)
+		@Html.DropDownListFor(m => m.Class.FacultyId,
+			new SelectList(Model.Faculties, "Id", "Name"), "Select Faculty",
+			new { @class = "form-control" }
+		)
+	</div>
+
+	<button type="submit" class="btn btn-primary">Assign</button>
+}

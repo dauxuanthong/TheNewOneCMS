@@ -1,0 +1,159 @@
+﻿<html>
+<head>
+	<script src="~/Scripts/Chart.min.js"></script>
+	<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+	<script src="~/Scripts/bootstrap.min.js"></script>
+	<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+	<style>
+		#chart_container{
+			width:800px;
+			height:auto;
+			border: 1px solid #ddd;
+			padding: 1px;
+			border-radius: 4px;
+		}
+	</style>
+<body>
+	<div id="chart_container">
+		<canvas id="bar_chart"></canvas>
+	</div>
+
+	<script>
+
+		@* X *@
+		var datas = @Html.Raw(Json.Encode(ViewBag.FACULTYTYPE));
+		@* Y *@
+		var dataArray = @Html.Raw(Json.Encode(ViewBag.ANALYSISDATA));
+
+		var ctx = $("#bar_chart")
+		var barChart = new Chart(ctx, {
+			type: 'bar',
+			data: {
+				labels: datas,
+				datasets: [{
+					label: "Bar Chart Example",
+					data: dataArray,
+					backgroundColor: [
+						'rgba(255, 99, 132, 0.2)',
+						'rgba(54, 162, 235, 0.2)',
+						'rgba(255, 206, 86, 0.2)',
+						'rgba(75, 192, 192, 0.2)',
+						'rgba(153, 102, 255, 0.2)',
+						'rgba(255, 159, 64, 0.2)'
+					],
+					borderColor: [
+						'rgba(255, 99, 132, 1)',
+						'rgba(54, 162, 235, 1)',
+						'rgba(255, 206, 86, 1)',
+						'rgba(75, 192, 192, 1)',
+						'rgba(153, 102, 255, 1)',
+						'rgba(255, 159, 64, 1)'
+					],
+					borderWidth: 1
+				}]
+			},
+			options: {
+				maintaninAspecRatio: false,
+				scales: {
+					xAxes: [{ ticks: { beginAtZero: true } }],
+					yAxes: [{
+						ticks: {
+							max: 50,
+							min: 0,
+							precision: 1,
+							stepSize: 1,
+						}
+					}]
+				},
+				legend: { display: false }
+
+
+			},
+		});
+	</script>
+	
+	<!--<br><br><br><br><br><br><br><br>
+
+
+	<script>-->
+
+		@* X *@
+		<!--var datas = @Html.Raw(Json.Encode(ViewBag.FACULTYTYPE));-->
+		@* Y *@
+		<!--var dataArray = @Html.Raw(Json.Encode(ViewBag.ANALYSISDATA));-->
+		@* Y1 *@
+		<!--var data1Array = @Html.Raw(Json.Encode(ViewBag.ANALYSISDATA1));
+
+		var ctx1 = $("#bar_chart")
+		var barChart1 = new Chart(ctx1, {
+			type: 'bar',
+			data: {
+				labels: datas,
+				datasets: [{
+					label: "Bar Chart Example",
+					data: dataArray,
+					backgroundColor: [
+						'rgba(255, 99, 132, 0.2)',
+						'rgba(54, 162, 235, 0.2)',
+						'rgba(255, 206, 86, 0.2)',
+						'rgba(75, 192, 192, 0.2)',
+						'rgba(153, 102, 255, 0.2)',
+						'rgba(255, 159, 64, 0.2)'
+					],
+					borderColor: [
+						'rgba(255, 99, 132, 1)',
+						'rgba(54, 162, 235, 1)',
+						'rgba(255, 206, 86, 1)',
+						'rgba(75, 192, 192, 1)',
+						'rgba(153, 102, 255, 1)',
+						'rgba(255, 159, 64, 1)'
+					],
+					borderWidth: 1
+				}, {
+						label: "Bar Chart Example",
+						data: data1Array,
+						backgroundColor: [
+							'rgba(255, 99, 132, 0.2)',
+							'rgba(54, 162, 235, 0.2)',
+							'rgba(255, 206, 86, 0.2)',
+							'rgba(75, 192, 192, 0.2)',
+							'rgba(153, 102, 255, 0.2)',
+							'rgba(255, 159, 64, 0.2)'
+						],
+						borderColor: [
+							'rgba(255, 99, 132, 1)',
+							'rgba(54, 162, 235, 1)',
+							'rgba(255, 206, 86, 1)',
+							'rgba(75, 192, 192, 1)',
+							'rgba(153, 102, 255, 1)',
+							'rgba(255, 159, 64, 1)'
+						],
+						borderWidth: 1
+					}],
+			options: {
+				maintaninAspecRatio: false,
+				scales: {
+					xAxes: [{ ticks: { beginAtZero: true } }],
+					yAxes: [{
+						ticks: {
+							max: 50,
+							min: 0,
+							precision: 1,
+							stepSize: 1,
+						}
+					}]
+				},
+				legend: { display: false }
+				},
+			},
+		});
+	</script>-->
+	
+	
+
+
+
+
+</body>
+
+</html>

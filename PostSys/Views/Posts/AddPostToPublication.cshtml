@@ -1,0 +1,11 @@
+﻿@model PostSys.Models.Publication
+@{
+	ViewBag.Title = "AddPostToPublication";
+}
+
+<h2>AddPostToPublication</h2>
+
+@using (Html.BeginForm("AddPostToPublication", "Posts", FormMethod.Post))
+{
+	<button type="submit" class="btn btn-primary">Add to Publication</button>
+}

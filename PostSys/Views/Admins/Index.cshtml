@@ -1,0 +1,39 @@
+﻿@model IEnumerable<PostSys.ViewModels.UserInRolesViewModel>
+@{
+	ViewBag.Title = "Index";
+}
+
+<h2>Accounts</h2>
+
+<table class="table table-striped">
+	<tr>
+		<th>UserName</th>
+		<th>Email</th>
+		<th>Role</th>
+		<th>Delete</th>
+		<th>Edit User Name</th>
+		<th>Reset Password</th>
+	</tr>
+	@foreach (var user in Model)
+	{
+<tr>
+	@if ((user.Role.Contains("Admin")) == false)
+	{
+		<td>@user.Username</td>
+		<td>@user.Email</td>
+		<td>@user.Role</td>
+		if ((user.Role.Contains("Marketing Manager")) == true)
+		{
+			<th>Blocked</th>
+		}
+		else
+		{
+			<td>@Html.ActionLink("Delete this account", "Delete", new { id = user.UserId })</td>
+		}
+
+		<td>@Html.ActionLink("Edit user name", "Edit", new { id = user.UserId })</td>
+		<td>@Html.ActionLink("Reset Password", "ChangePass", new { id = user.UserId })</td>
+	}
+</tr>
+	}
+</table>

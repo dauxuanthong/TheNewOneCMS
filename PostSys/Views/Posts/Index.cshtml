@@ -1,0 +1,52 @@
+﻿@model IEnumerable<PostSys.Models.Post>
+	@{
+		ViewBag.Title = "Index";
+	}
+
+	<h2>Index</h2>
+
+
+
+	<p>
+		@Html.ActionLink("Download multiple files with .zip", "ManagerIndex")
+	</p>
+	<p>
+		@Html.ActionLink("Format Temp File", "DeleteTempFile")
+	</p>
+
+	@using (Html.BeginForm("Index", "Posts", FormMethod.Get))
+	{
+
+		<table class="table table-hover">
+			<tr>
+				<th>Id</th>
+				<th>Post Name</th>
+				<th>Course Name</th>
+				<th>Class Name</th>
+				<th>Student Name</th>
+				<th>Post Date</th>
+				<th>Delete</th>
+				<th>Download</th>
+				<th>Add to list</th>
+
+			</tr>
+			@foreach (var item in Model)
+			{
+				<tr>
+					<th>@item.Id</th>
+					<th>@item.Name</th>
+					<th>@item.Course.Name</th>
+					<th>@item.Course.Class.Name</th>
+					<th>@item.Course.Student.UserName</th>
+					<th>@item.PostDate</th>
+					<th>@Html.ActionLink("Delete", "Delete", new { id=item.Id })</th>
+					<th class="sorting">
+						@Html.ActionLink("Download", "Download", new { id=item.Id })
+					</th>
+					<th>@Html.ActionLink("Add to list", "AddTotempFiles", new { id=item.Id })</th>
+				</tr>
+			}
+		</table>
+	}
+
+

@@ -1,0 +1,36 @@
+﻿@model IEnumerable<PostSys.Models.Post>
+@{
+	ViewBag.Title = "ManageMinePost";
+}
+
+<h2>ManageMinePost</h2>
+
+@using (Html.BeginForm("ManageMinePost", "Posts", FormMethod.Get))
+{
+	<table class="table table-hover">
+		<tr>
+			<th>Student Name</th>
+			<th>Course Name</th>
+			<th>Class Name</th>
+			<th>Post Name</th>
+			<th>Comment</th>
+			<th>Add to Publication</th>
+			<th>Download</th>
+		</tr>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<th>@item.Course.Student.UserName</th>
+				<th>@item.Course.Name</th>
+				<th>@item.Course.Class.Name</th>
+				<th>@item.Name</th>
+				<td>@Html.ActionLink("Post your Comment", "AddComment", new { id = item.Id })</td>
+				<td>@Html.ActionLink("Add to Publication", "AddPostToPublication", new { id = item.Id })</td>
+				<th class="sorting">
+					@Html.ActionLink("Download", "Download", new { id = item.Id})
+				</th>
+			</tr>
+		}
+	</table>
+}
+

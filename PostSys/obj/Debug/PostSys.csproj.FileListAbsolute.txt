@@ -1,0 +1,477 @@
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\PostSys.dll.config
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\PostSys.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\PostSys.pdb
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\csc.exe
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\csc.exe.config
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\csc.rsp
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\csi.exe
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\csi.exe.config
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\csi.rsp
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.AppContext.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Console.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.IO.Compression.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Net.Http.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.ValueTuple.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\vbc.exe
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\vbc.exe.config
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\vbc.rsp
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\VBCSCompiler.exe
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Antlr3.Runtime.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\EntityFramework.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\EntityFramework.SqlServer.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Security.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Newtonsoft.Json.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Owin.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\System.Web.Helpers.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\System.Web.Mvc.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\System.Web.Optimization.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\System.Web.Razor.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\System.Web.WebPages.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\System.Web.WebPages.Razor.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\WebGrease.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\System.Web.Helpers.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\System.Web.Mvc.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\System.Web.Optimization.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\System.Web.Razor.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\System.Web.WebPages.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\System.Web.WebPages.Razor.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Newtonsoft.Json.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Antlr3.Runtime.pdb
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\EntityFramework.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\EntityFramework.SqlServer.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Security.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\obj\Debug\PostSys.csprojAssemblyReference.cache
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\obj\Debug\PostSys.csproj.CoreCompileInputs.cache
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\obj\Debug\PostSys.csproj.CopyComplete
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\obj\Debug\PostSys.dll
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\obj\Debug\PostSys.pdb
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\obj\Debug\PostSys.Migrations.InitDb.resources
+C:\Users\SexyMeoww\source\repos\PostSys\PostSys\obj\Debug\PostSys.csproj.GenerateResource.cache
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\PostSys.dll.config
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\PostSys.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\PostSys.pdb
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\csc.exe
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\csc.exe.config
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\csc.rsp
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\csi.exe
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\csi.exe.config
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\csi.rsp
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.AppContext.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Console.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.IO.Compression.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Net.Http.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.ValueTuple.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\vbc.exe
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\vbc.exe.config
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\vbc.rsp
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Antlr3.Runtime.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\EntityFramework.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\EntityFramework.SqlServer.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Security.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Newtonsoft.Json.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Owin.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\System.Web.Helpers.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\System.Web.Mvc.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\System.Web.Optimization.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\System.Web.Razor.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\System.Web.WebPages.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\WebGrease.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\System.Web.Helpers.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\System.Web.Mvc.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\System.Web.Optimization.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\System.Web.Razor.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\System.Web.WebPages.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Newtonsoft.Json.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Antlr3.Runtime.pdb
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\EntityFramework.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\EntityFramework.SqlServer.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Security.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\obj\Debug\PostSys.csprojAssemblyReference.cache
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\obj\Debug\PostSys.Migrations.InitDb.resources
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\obj\Debug\PostSys.csproj.GenerateResource.cache
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\obj\Debug\PostSys.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\obj\Debug\PostSys.csproj.CopyComplete
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\obj\Debug\PostSys.dll
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\obj\Debug\PostSys.pdb
+C:\Users\Thanh Nguyen\Source\Repos\PostSystem\PostSys\obj\Debug\PostSys.Migrations.AddFacultyTable.resources
+C:\Users\Thanh Nguyen\source\repos\PostSystem\PostSys\obj\Debug\PostSys.Migrations.AddClassTable.resources
+C:\Users\Thanh Nguyen\source\repos\PostSystem\PostSys\obj\Debug\PostSys.Migrations.AddCourseTable.resources
+C:\Users\Thanh Nguyen\source\repos\PostSystem\PostSys\obj\Debug\PostSys.Migrations.AddCourseTable1.resources
+C:\Users\Thanh Nguyen\source\repos\PostSystem\PostSys\obj\Debug\PostSys.Migrations.AddCourseTable2.resources
+C:\Users\Thanh Nguyen\source\repos\PostSystem\PostSys\obj\Debug\PostSys.Migrations.AddCourseTable3.resources
+C:\Users\Thanh Nguyen\source\repos\PostSystem\PostSys\obj\Debug\PostSys.Migrations.AddPostTable.resources
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\PostSys.dll.config
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\PostSys.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\PostSys.pdb
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\csc.exe
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\csc.exe.config
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\csc.rsp
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\csi.exe
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\csi.exe.config
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\csi.rsp
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.AppContext.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Console.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.IO.Compression.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Net.Http.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.ValueTuple.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\vbc.exe
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\vbc.exe.config
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\vbc.rsp
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Antlr3.Runtime.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\EntityFramework.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\EntityFramework.SqlServer.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Security.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Newtonsoft.Json.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Owin.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\System.Web.Helpers.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\System.Web.Mvc.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\System.Web.Optimization.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\System.Web.Razor.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\System.Web.WebPages.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\WebGrease.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\EntityFramework.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\EntityFramework.SqlServer.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\System.Web.Helpers.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\System.Web.Mvc.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\System.Web.Optimization.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\System.Web.Razor.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\System.Web.WebPages.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Newtonsoft.Json.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Antlr3.Runtime.pdb
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Security.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.csprojAssemblyReference.cache
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.Migrations.InitDb.resources
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.Migrations.AddFacultyTable.resources
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.Migrations.AddClassTable.resources
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.Migrations.AddCourseTable.resources
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.Migrations.AddCourseTable1.resources
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.Migrations.AddCourseTable2.resources
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.Migrations.AddCourseTable3.resources
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.Migrations.AddPostTable.resources
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.csproj.GenerateResource.cache
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.csproj.CopyComplete
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.dll
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.pdb
+C:\Users\Thanh Nguyen\Source\Repos\CMS-Final-1\PostSys\obj\Debug\PostSys.Migrations.AddPostTable1.resources
+C:\Users\Thanh Nguyen\source\repos\CMS-Final-1\PostSys\obj\Debug\PostSys.Migrations.AddCommentTable.resources
+C:\Users\Thanh Nguyen\source\repos\CMS-Final-1\PostSys\bin\DotNetZip.dll
+C:\Users\Thanh Nguyen\source\repos\CMS-Final-1\PostSys\bin\DotNetZip.pdb
+C:\Users\Thanh Nguyen\source\repos\CMS-Final-1\PostSys\bin\DotNetZip.xml
+C:\Users\Thanh Nguyen\source\repos\CMS-Final-1\PostSys\obj\Debug\PostSys.Migrations.AddPostTable2.resources
+C:\Users\Thanh Nguyen\source\repos\CMS-Final-1\PostSys\obj\Debug\PostSys.Migrations.AddPublicationTable.resources
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\PostSys.dll.config
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\PostSys.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\PostSys.pdb
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\csc.exe
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\csc.exe.config
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\csc.rsp
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\csi.exe
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\csi.exe.config
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\csi.rsp
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.AppContext.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Console.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.IO.Compression.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Net.Http.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.ValueTuple.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\vbc.exe
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\vbc.exe.config
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\vbc.rsp
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\VBCSCompiler.exe
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Antlr3.Runtime.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\DotNetZip.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\EntityFramework.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\EntityFramework.SqlServer.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Security.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Newtonsoft.Json.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Owin.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\System.Web.Helpers.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\System.Web.Mvc.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\System.Web.Optimization.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\System.Web.Razor.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\System.Web.WebPages.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\System.Web.WebPages.Razor.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\WebGrease.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\DotNetZip.pdb
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\DotNetZip.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\EntityFramework.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\EntityFramework.SqlServer.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Newtonsoft.Json.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\System.Web.Helpers.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\System.Web.Mvc.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\System.Web.Optimization.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\System.Web.Razor.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\System.Web.WebPages.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\System.Web.WebPages.Razor.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Antlr3.Runtime.pdb
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Security.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.csprojAssemblyReference.cache
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.Migrations.InitDb.resources
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.Migrations.AddFacultyTable.resources
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.Migrations.AddClassTable.resources
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.Migrations.AddCourseTable.resources
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.Migrations.AddCourseTable1.resources
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.Migrations.AddCourseTable2.resources
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.Migrations.AddCourseTable3.resources
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.Migrations.AddPostTable.resources
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.Migrations.AddPostTable1.resources
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.Migrations.AddCommentTable.resources
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.Migrations.AddPostTable2.resources
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.Migrations.AddPublicationTable.resources
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.csproj.GenerateResource.cache
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.csproj.CoreCompileInputs.cache
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.csproj.CopyComplete
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.dll
+C:\Users\SexyMeoww\Source\Repos\CMS_new\PostSys\obj\Debug\PostSys.pdb
+C:\Users\SexyMeoww\source\repos\CMS_new\PostSys\obj\Debug\PostSys.Migrations.AddPostTable3.resources
+C:\Users\SexyMeoww\source\repos\CMS_new\PostSys\obj\Debug\PostSys.Migrations.AddPostTable4.resources

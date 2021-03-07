@@ -1,0 +1,30 @@
+﻿@model IEnumerable<PostSys.Models.Publication>
+@{
+	ViewBag.Title = "ListPublication";
+}
+
+<h2>ListPublication</h2>
+
+@using (Html.BeginForm("ListPublication", "Posts", FormMethod.Get))
+{
+<table class="table table-hover">
+	<tr>
+		<th>Post Name</th>
+		<th>Course Name</th>
+		<th>Class Name</th>
+		<th>Coordinator Name</th>
+		<th>Delete</th>
+
+	</tr>
+	@foreach (var item in Model)
+	{
+		<tr>
+			<th>@item.Post.Name</th>
+			<th>@item.Post.Course.Name</th>
+			<th>@item.Post.Course.Class.Name</th>
+			<th>@item.Post.Course.Class.Coordinator.UserName</th>
+			<th>@Html.ActionLink("Delete", "DeleteMinePublication", new { id = item.Id })</th>
+		</tr>
+	}
+</table>
+}

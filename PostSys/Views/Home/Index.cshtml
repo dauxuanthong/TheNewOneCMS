@@ -1,0 +1,80 @@
+﻿@{
+	ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+	<h1>ASP.NET</h1>
+	<p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+	<p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<div class="row">
+
+
+	@if (Request.IsAuthenticated && User.IsInRole("Marketing Manager"))
+	{
+		<div class="col-md-4">
+			<h2>Manager</h2>
+			<p>
+				Chuc nang cua Manager
+			</p>
+			<button class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="False">Faculty Function<span class="caret"></span></a>
+				<ul class="dropdown-menu" role="menu">
+					<li>@Html.ActionLink("List Faculty", "Index", "Faculties")</li>
+					<li>@Html.ActionLink("Create Faculty", "Create", "Faculties")</li>
+					<li>@Html.ActionLink("List Class", "Index", "Classes")</li>
+					<li>@Html.ActionLink("Create Class", "Create", "Classes")</li>
+					<li>@Html.ActionLink("List Post", "Index", "Posts")</li>
+					<li>@Html.ActionLink("Manager Index ", "ManagerIndex", "Posts")</li>
+					<li>@Html.ActionLink("List Publication", "ListPublication", "Posts")</li>
+				</ul>
+			</button>
+		</div>
+	}
+
+
+	@if (Request.IsAuthenticated && User.IsInRole("Marketing Coodinator"))
+	{
+		<div class="col-md-4">
+			<h2>Coordinator function</h2>
+			<p>
+				Chuc nang cua Coordinator
+			</p>
+			<button class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="False">Coordinator Function<span class="caret"></span></a>
+				<ul class="dropdown-menu" role="menu">
+
+
+					<li>@Html.ActionLink("Mine Class", "Mine", "Classes")</li>
+					<li>@Html.ActionLink("Assign Student to Course", "AssignStudentToCourse", "Courses")</li>
+					<li>@Html.ActionLink("Manage Post", "ManageMinePost", "Posts")</li>
+					<li>@Html.ActionLink("Manage Mine Course", "ManageMineCourse", "Courses")</li>
+					<li>@Html.ActionLink("Mine Publication", "ManageMinePublication", "Posts")</li>
+				</ul>
+			</button>
+		</div>
+	}
+
+
+
+	@if (Request.IsAuthenticated && User.IsInRole("Student"))
+	{
+		<div class="col-md-4">
+			<h2>Student function</h2>
+			<p>
+				Chuc nang cua Student
+			</p>
+			<button class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="False">Manager Function<span class="caret"></span></a>
+				<ul class="dropdown-menu" role="menu">
+					<li>@Html.ActionLink("Mine Course", "MineCourse", "Courses")</li>
+					<li>@Html.ActionLink("Mine Topic", "MinePost", "Posts")</li>
+				</ul>
+			</button>
+		</div>
+	}
+
+</div>
+
+

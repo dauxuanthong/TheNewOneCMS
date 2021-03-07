@@ -1,0 +1,18 @@
+﻿@model PostSys.Models.ApplicationUser
+@{
+	ViewBag.Title = "Edit";
+}
+
+<h2>Edit Username</h2>
+@using (Html.BeginForm("Edit", "Admins", FormMethod.Post))
+{
+
+	@Html.HiddenFor(p => p.Id)
+	<div class="form-group">
+		@Html.AntiForgeryToken()
+		@Html.LabelFor(p => p.UserName)
+		@Html.EditorFor(p => p.UserName, new { htmlAttributes = new { @class = "form-control" } })
+		@Html.ValidationMessageFor(p => p.UserName, "", new { @class = "text-danger" })
+	</div>
+	<button type="submit" class="btn btn-primary">Edit</button>
+}

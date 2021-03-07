@@ -1,0 +1,23 @@
+﻿@model IEnumerable<PostSys.Models.Comment>
+@{
+	ViewBag.Title = "ShowComment";
+}
+
+<h2>ShowComment</h2>
+
+@using (Html.BeginForm("ShowComment", "Posts", FormMethod.Get))
+{
+	<table class="table table-hover">
+		<tr>
+			<th>Comment</th>
+			<th>Delete</th>
+		</tr>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<th>@item.Reply</th>
+				<th>@Html.ActionLink("Delete", "DeleteComment", new { id = item.Id })</th>
+			</tr>
+		}
+	</table>
+}

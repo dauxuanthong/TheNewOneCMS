@@ -1,0 +1,39 @@
+﻿@using PostSys.ViewModels
+@model List<FileViewModel>
+
+@{
+	ViewBag.Title = "DownloadAll";
+}
+
+<h2>DownloadAll</h2>
+@using (Html.BeginForm("DownloadAll", "Posts", FormMethod.Post))
+{
+
+<table class="table table-hover">
+	<tr>
+		<th> </th>
+		<th>Post Name</th>
+		<th>Course Name</th>
+		<th>Class Name</th>
+		<th>Student Name</th>
+		<th>Post Date</th>
+	</tr>
+	@for (int i = 0; i < Model.Count(); i++)
+	{
+		<tr>
+			<td>@Html.CheckBoxFor(m => m[i].IsSelected)</td>
+			<td>
+				@Model[i].FileName
+				@Html.HiddenFor(m => m[i].FilePath)
+				@Html.HiddenFor(m => m[i].FileName)
+			</td>
+			<th>@Model[i].PostName</th>
+			<th>@Model[i].CourseName</th>
+			<th>@Model[i].ClassName</th>
+			<th>@Model[i].StudentName</th>
+			<th>@Model[i].PostDate</th>
+		</tr>
+	}
+</table>
+	<input type="submit" value="Download" />
+}
